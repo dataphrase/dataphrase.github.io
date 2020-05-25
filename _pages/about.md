@@ -12,7 +12,7 @@ Hello, world👋. This section is all about the creators of this blog.
 I'm a freshman at NMIMS University studying Data Science. Being Data Science nerds, my friend Manan and I have started DataPhrase where we write blog posts about the mini-projects and end-to-end projects which we do, or explaining core concepts like Natural Language Processing.
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/devanshu125" style="font-size: 36px;color:black;text-decoration: none">
 <i  class="fab fa-fw fa-github"></i>
 </a>
@@ -28,7 +28,7 @@ I'm a freshman at NMIMS University studying Data Science. Being Data Science ner
 I'm a B.Tech Data Science student at NMIMS University. I'm a Machine Learning enthusiast and have experience in Data Analytics.
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mananjhaveri" style="font-size: 36px;color:black;text-decoration: none">
 <i  class="fab fa-fw fa-github"></i>
 </a>

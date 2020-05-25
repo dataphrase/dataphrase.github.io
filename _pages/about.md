@@ -19,7 +19,7 @@ I'm a freshman at NMIMS University studying Data Science. Being Data Science ner
 <i class="fas fa-fw fa-link"></i>
 </a>
 <a href="https://linkedin.com/devanshu125" style="font-size: 36px;text-decoration: none">
-<i class="fas fa-fw fa-linkedin"></i>
+<i class="fab fa-fw fa-linkedin-in"></i>
 </a>
 
 ## Manan Jhaveri
@@ -34,5 +34,5 @@ I'm a B.Tech Data Science student at NMIMS University. I'm a Machine Learning en
 <i class="fas fa-fw fa-link"></i>
 </a>
 <a href="https://www.linkedin.com/in/manan-jhaveri-07976b159/" style="font-size: 36px;text-decoration: none">
-<i class="fas fa-fw fa-linkedin"></i>
+<i class="fab fa-fw fa-linkedin-in"></i>
 </a>

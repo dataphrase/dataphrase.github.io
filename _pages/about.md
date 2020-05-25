@@ -30,7 +30,7 @@ I'm a B.Tech Data Science student at NMIMS University. I'm a Machine Learning en
 <a href="https://github.com/mananjhaveri" style="font-size: 36px;color:black;text-decoration: none">
 <i  class="icon fab fa-fw fa-github"></i>
 </a>
-<a href="https://www.linkedin.com/in/manan-jhaveri-07976b159/" style="font-size: 36px;text-decoration: none">
+<a href="https://drive.google.com/file/d/1QFCEtS4AdY5MxrIZuqbazJfhiNMh7TX8/view?usp=sharing" style="font-size: 36px;text-decoration: none">
 <i class="icon fas fa-fw fa-link"></i>
 </a>
 <a href="https://www.linkedin.com/in/manan-jhaveri-07976b159/" style="font-size: 36px;text-decoration: none">

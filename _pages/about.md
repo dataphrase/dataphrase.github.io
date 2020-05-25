@@ -13,11 +13,11 @@ Hello, world👋. This section is all about the creators of this blog.
 2. 💻 I have been programming since the past few years and have proficient knowledge in
 C, C++ and Python. Web Technologies include HTML, CSS and Flask and Databases, MySQL
 and SQLite3. You can also check out a few [projects](https://devanshu125.github.io/Projects/) which I have done.
-<a href="https://github.com/devanshu125">
-<i class="fab fa-fw fa-github"> </i>
+
+Links:
+<a href="https://github.com/devanshu125" class="fab fa-fw fa-github" style="font-size: 36px;text-decoration: none">
 </a>
-<a href="https://twitter.com/devanshu125">
-<i class="fab fa-fw fa-twitter-square""> </i>
+<a href="https://twitter.com/devanshu125" class="fab fa-fw fa-twitter-square" style="font-size: 36px;text-decoration: none">
 </a>
 
 ## Manan Jhaveri

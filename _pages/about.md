@@ -13,6 +13,16 @@ Hello, world👋. This section is all about the creators of this blog.
 2. 💻 I have been programming since the past few years and have proficient knowledge in
 C, C++ and Python. Web Technologies include HTML, CSS and Flask and Databases, MySQL
 and SQLite3. You can also check out a few [projects](https://devanshu125.github.io/Projects/) which I have done.
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: mailto:dataphrase1729@gmail.com
+  - label: "Resume"
+    icon: "fas fa-fw fa-link"
+    url: "https://drive.google.com/file/d/1Rq1BHNK1PdFI4RxcMQOH16F5g5TEoT2j/view?usp=sharing"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/devanshu125"
 
 
 ## Manan Jhaveri

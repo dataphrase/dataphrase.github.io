@@ -65,7 +65,7 @@ ax.set_ylabel("cumulative explained variance")
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/images/londonsklearn/3.PNG" alt="PCA n_components">
 
-We can see, that at n_components = 12, 80% variance reserved.
+We can see, that at n_components = 12, 80% variance is preserved.
 Let's transform the data using a pipeline.
 
 ```python

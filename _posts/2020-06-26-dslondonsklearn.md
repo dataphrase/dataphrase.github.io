@@ -46,7 +46,7 @@ We have 40 features with low correlation. The ideal 1st step for preparing the d
 We will use Principal Component Analysis. First, we will have to scale the data and find appropriate value for n_components hyperparameter for PCA.
 We will plot cumulative explained variance vs n_components, and select the value of n_components which preserves 80% variance.
 
-```Python
+```python
 
 scaler = Normalizer()
 scaled = scaler.fit_transform(train)
@@ -68,7 +68,7 @@ ax.set_ylabel("cumulative explained variance")
 We can see, that at n_components = 12, 80% variance reserved.
 Let's transform the data using a pipeline.
 
-```Python
+```python
 n_components = 12
 pipeline = Pipeline([("n", StandardScaler()), ("pca", PCA(n_components))])
 pca_train = pipeline.fit_transform(train)
@@ -78,7 +78,7 @@ pca_test = pipeline.transform(test)
 28 features are still a lot. Some other technique to further reduce the dimensions also has to be used.
 We will try Bayesian Gaussian Mixture models:
 
-```Python
+```python
 from sklearn.mixture import GaussianMixture
 
 X_combined = np.r_[pca_train, pca_test]
@@ -111,7 +111,7 @@ train_X, test_X, train_y, test_y = train_test_split(pca_train, y.Label, test_siz
 ```
 Next step is to use GridSearchCV to find the right hyperparameters for our model and check the accuracy of the model on the test set.
 
-```Python
+```python
 from xgboost import XGBClassifier
 xgb = XGBClassifier()
 params = {"eta": [0.01, 0.1, 1], "max_depth": [10, 15, 20], "gamma": [0.1, 1, 10]}
@@ -125,7 +125,7 @@ We get the following as best paramaeters:
 And the accuracy on the test set is 92%. Not bad.
 We will train an XGBoost model again on the entire train dataset now and make predictions on the test data, save the predictions in a file and submit it!
 
-```Python
+```python
 xgb = XGBClassifier(eta = 0.01, gamma = 0.1, max_depth = 15, subsample = 0.5)
 xgb.fit(gmm_train, y.iloc[:,0])
 

@@ -1,6 +1,6 @@
 ---
 title: "Bad passwords and the NIST guidelines"
-date: 2020-06-26
+date: 2020-07-05
 tags: [Python, Data Science, Cybersecurity]
 header:
   image: "/images/passwordnist/main_image.jpg"
@@ -166,4 +166,4 @@ Apart from the checks implemented above, NIST is also clear with what password r
 So, the next time a website or an app tells you to "include both a number, symbol and an upper and lower case character in your password" you should send them a copy of [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html).
 
 ## Credits
-I would like to thank [DataCamp](https://www.datacamp.com/) for making such amazing content and giving us the opportunity to do a project like this. 
+I would like to thank [DataCamp](https://www.datacamp.com/) for making such amazing content and giving us the opportunity to do a project like this.

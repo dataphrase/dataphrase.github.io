@@ -68,7 +68,7 @@ We are gonna check these in order and start with *Passwords obtained from previo
   # Taking a look at the top 20
   print(common_passwords.head(20))
 ```
-Take a look at the top 20 common passwords in the list and I hope yours is not one of them:wink:
+Take a look at the top 20 common passwords in the list and I hope yours is not one of them😉
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/passwordnist/top20_common.PNG" alt="Top 20 common passwords">
 

@@ -8,7 +8,7 @@ excerpt: "Checking what passwords conform to the National Institute of Standard 
 ---
 
 ## Introduction
-In this blogpost, we will go through the rules in [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) which details what checks a *verifier* (what the NIST calls a second party responsible for storing and verifying passwords) should perform to make sure users don't pick bad passwords. We will go through the passwords of users from a fictional company and use python to flag the users with bad passwords.
+In this blogpost, we will go through the rules in [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) and check what a *verifier* (what the NIST calls a second party responsible for storing and verifying passwords) should perform to make sure users don't pick bad passwords. We will go through the passwords of users from a fictional company and use python to flag the users with bad passwords.
 
 *Warning: The list of passwords and the fictional user database both contain real passwords leaked from real websites. These passwords have not been filtered in any way and include words that are explicit, derogatory and offensive.*
 

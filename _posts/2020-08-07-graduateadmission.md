@@ -30,7 +30,7 @@ In this case skewness is very close to 0, hence it is normally distributed.
 
 I wanted to convert this into a classification problem that is the target variable should be 0 if not admitted and 1 if admitted. So, for this we need to decide a threshold. Let us look at the distribution of chance of admit.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/adm_predict/chance_admit.PNG" alt="Chance of admit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/adm_predict/chance_admit.png" alt="Chance of admit">
 
 If we select a threshold of 0.5, we will not get a good classification as the dataset will become very imbalanced. In this case we will have to select a threshold close to 0.7 (I have taken 0.72 which is the mean). Let us now convert chance of admit into a binary classification.
 

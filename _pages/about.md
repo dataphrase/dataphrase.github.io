@@ -38,14 +38,14 @@ I'm a B.Tech Data Science student at NMIMS University. I'm a Machine Learning en
 </a>
 
 ## Yash Shah
-<img src="{{ site.url }}{{ site.baseurl }}/images/yash.png" alt="Yash Shah">
+<img src="{{ site.url }}{{ site.baseurl }}/images/yash.jpg" alt="Yash Shah">
 You know who I am. Just Kidding. I am a student pursuing Data Science at NMIMS University. Just like my friends Manan and Devanshu, I am also a Data Science enthusiast with a passion for Graphic Design and Digital Marketing. Basically i make everything and everyone look cool.
 <br>
 <br>
 <a href="https://github.com/yash161101" style="font-size: 36px;color:black;text-decoration: none">
 <i  class="icon fab fa-fw fa-github"></i>
 </a>
-<a href="https://www.linkedin.com/in/yash-shah161101/" style="font-size: 36px;text-decoration: none">
+<a href="https://drive.google.com/file/d/1fd1OwE6p7ikgY2qow-38ANlwjLIqz8vh/view?usp=sharing" style="font-size: 36px;text-decoration: none">
 <i class="icon fas fa-fw fa-link"></i>
 </a>
 <a href="https://www.linkedin.com/in/yash-shah161101/" style="font-size: 36px;text-decoration: none">

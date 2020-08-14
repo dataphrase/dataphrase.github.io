@@ -6,6 +6,7 @@ header:
   image: "/images/passwordnist/main_image.jpg"
 excerpt: "Checking what passwords conform to the National Institute of Standard and Technology guidelines."
 ---
+> Written by Devanshu Ramaiya and Manan Jhaveri 
 
 ## Introduction
 In this blogpost, we will go through the rules in [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) and check what a *verifier* (what the NIST calls a second party responsible for storing and verifying passwords) should perform to make sure users don't pick bad passwords. We will go through the passwords of users from a fictional company and use python to flag the users with bad passwords.

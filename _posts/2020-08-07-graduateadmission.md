@@ -6,6 +6,7 @@ header:
   image: "/images/adm_predict/cover.jpg"
 excerpt: "Predicting admission for master's using various parameters."
 ---
+> Written by Devanshu Ramaiya and Manan Jhaveri 
 
 # Introduction
 In today's blog we will use this [dataset](https://www.kaggle.com/mohansacharya/graduate-admissions) where we try to predict graduate admissions based on various parameters like GRE and TOEFL Scores. Let us take a look at the dataset.

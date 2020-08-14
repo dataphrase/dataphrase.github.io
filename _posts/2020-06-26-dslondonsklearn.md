@@ -6,6 +6,7 @@ header:
   image: "/images/londonsklearn/title.jpg"
 excerpt: ""
 ---
+> Written by Manan Jhaveri and Devanshu Ramaiya
 
 ## Introduction
 In this blogpost, we will talk about an interesting Kaggle competition dataset: [Data Science London + Scikit Learn](https://www.kaggle.com/c/data-science-london-scikit-learn).

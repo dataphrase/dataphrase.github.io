@@ -6,6 +6,7 @@ header:
   image: "/images/sharpe_ratio_blog/sharpe_blog.jpg"
 excerpt: "Calculating and comparing profitability and risk of different investments using the Sharpe Ratio."
 ---
+> Written by Devanshu Ramaiya and Manan Jhaveri
 
 ## Introduction💡
 Reward-to-variability ratio, also known as The Sharpe Ratio, is one of the most popular risk/return measures in finance. It helped professor William Sharpe win a Nobel Prize in Economics in 1990 for his work on the capital asset pricing model (CAPM). The Sharpe Ratio is usually calculated for a portfolio and uses the risk-free interest rate as benchmark. But, today we'll learn about the Sharpe ratio by calculating it for the stocks of the two tech giants Facebook and Amazon. As benchmark we'll use the S&P 500 that measures the performance of the 500 largest stocks in the US.

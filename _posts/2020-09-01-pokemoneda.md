@@ -3,7 +3,7 @@ title: "Pokemon - Exploratory Data Analysis"
 date: 2020-09-01
 tags: [Python, Data Science, Pokemon]
 header:
-  image: "/images/pokemon_eda/Pokeball.JPG"
+  image: "/images/pokemon_eda/Pokeball.jpg"
 excerpt: "Exploring the Pokemon dataset and answer some general questions"
 ---
 
